@@ -167,7 +167,7 @@
 .wrapper {
     display: flex;
     flex-direction: row;
-    width: 900vw;
+    width: 1000vw;
     height: 100vw;
     background-image: url("./bg clean.png");
     background-size: 100vw;

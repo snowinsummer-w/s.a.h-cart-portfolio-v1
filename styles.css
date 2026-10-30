@@ -74,6 +74,8 @@
     background-color: hsl(260, 25%, 60%);
     box-shadow: -10px 10px 5px hsl(261.18, 23.94%, 13.92%, 50%);
     margin: 20vh 1px 10px 10px;
+    overflow: auto;
+    scrollbar-gutter: stable;
 }
 
 .project-desc-flow {
@@ -82,6 +84,8 @@
     background-color: hsl(260, 25%, 60%);
     box-shadow: -10px 10px 5px hsl(261.18, 23.94%, 13.92%, 50%);
     margin: 15vh 1px 5px 10px;
+    overflow: auto;
+    scrollbar-gutter: stable;
 }
 
 .project-desc-website {

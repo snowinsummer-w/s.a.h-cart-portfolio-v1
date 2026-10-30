@@ -69,7 +69,7 @@
     width: 50%;
     background-color: hsl(260, 25%, 60%);
     box-shadow: -10px 10px 5px hsl(261.18, 23.94%, 13.92%, 50%);
-    margin: 20vh 1px 10px 10px;
+    margin: 20vh 1px 20vh 10px;
     overflow: auto;
     scrollbar-gutter: stable;
 }

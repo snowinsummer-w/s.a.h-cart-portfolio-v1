@@ -90,6 +90,8 @@
     background-color: hsl(260, 25%, 60%);
     box-shadow: -10px 10px 5px hsl(261.18, 23.94%, 13.92%, 50%);
     margin: auto;
+    overflow: auto;
+    scrollbar-gutter: stable;
 }
 
 .project-img {

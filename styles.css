@@ -29,10 +29,6 @@
     scroll-snap-align: start;
 }
 
-.wrapper > .slide {
-    scroll-snap-align: start;
-}
-
 .progress {
     width: 90vw;
     height: 90vh;
